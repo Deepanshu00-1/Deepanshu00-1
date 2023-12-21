@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepanshu00-1
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on projects which will inhancd my skills
+- 💞️ I’m looking forward to collaborate on projects which will enhance my skills
 - 📫 How to reach me ...
 here's my contact -
 krrohan129@gmail.com
