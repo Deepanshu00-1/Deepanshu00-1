@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Deepanshu00-1
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 🌱 Got good understanding of HTML,CSS and JavaScript by creating Mini Propjects
+- 🕵️‍♂️ Currently Learning React Js
 - 💞️ I’m looking forward to collaborate on projects which will enhance my skills
 - 📫 How to reach me ...
 here's my contact -
