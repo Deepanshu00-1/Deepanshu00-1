@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Deepanshu 
-- 👀 I’m interested in web development and LLM integrations.
-- 🕵 MERN Stack Developer
-- 🦾 I’m looking forward to collaborate on projects which will enhance my skills
+- 🕵 Software Developer.
+- 🦾 I’m looking forward to collaborate on projects helping with my knowledge about LLMs,RAGs, Livekit.
 - 📫 How to reach me ...
 here's my contact -
 deepanshunew98@gmail.com
