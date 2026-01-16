@@ -26,7 +26,7 @@
 
 ## 📫 Let's Connect
 **Email:** deepanshunew98@gmail.com  
-**LinkedIn:** [Your LinkedIn]
+**LinkedIn:** https://www.linkedin.com/in/deepanshusingh98210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
